@@ -18,7 +18,6 @@ You can drag index.hmtl archive to your web navigator, and with VS Code use some
 - HTML5
 - CSS5
 - ECS6
-- [React](https://react.dev/) - JS Library
 
 ### :wave: Social
 
